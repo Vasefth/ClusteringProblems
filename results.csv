@@ -1,0 +1,13 @@
+Dimensionality Reduction Technique,Clustering Algorithm,Dimensionality Reduction Time (s),Clustering Time (s),Number of Suggested Clusters,Calinski-Harabasz Index,Davies-Bouldin Index,Silhouette Score,Adjusted Rand Index Score
+PCA,MiniBatch KMeans,22.378,1.506,10,1716.5,1.78,0.18,0.32
+PCA,DBSCAN,22.378,2.635,3,155.02,3.46,-0.04,0.01
+PCA,Agglomerative,22.378,12.208,10,1529.58,1.69,0.16,0.38
+Stacked Autoencoder,MiniBatch KMeans,91.07,0.577,10,1877.98,1.59,0.18,0.35
+Stacked Autoencoder,DBSCAN,91.07,7.103,2,65.72,3.25,0.03,0.0
+Stacked Autoencoder,Agglomerative,91.07,40.36,10,1836.0,1.46,0.21,0.36
+LDA,MiniBatch KMeans,21.728,0.227,10,4473.33,1.25,0.33,0.58
+LDA,DBSCAN,21.728,1.585,1,4.82,4.02,0.2,0.0
+LDA,Agglomerative,21.728,8.045,10,4218.53,1.13,0.33,0.62
+Raw,MiniBatch KMeans,0.0,0.413,10,1191.41,2.24,0.12,0.35
+Raw,DBSCAN,0.0,6.588,22,56.5,1.76,-0.3,0.04
+Raw,Agglomerative,0.0,43.75,10,1116.13,1.93,0.12,0.35
