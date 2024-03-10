@@ -45,10 +45,8 @@ The outcomes of the dimensionality reduction and clustering are summarized in a 
 - Georgios Tzelalis
 - Stavroula Tsoni
 
-We, the contributors, are undergraduate students of the Computer Science Department of the University of Macedonia, and this project is a part of our coursework in Machine Learning. Our collective effort aims to explore and apply machine learning techniques in understanding and categorizing fashion data, thereby gaining hands-on experience with real-world data analysis challenges.
+We, the contributors, are undergraduate students of the Computer Science Department of the University of Macedonia, and this project is a part of our coursework in Machine Learning. Our collective effort aims to explore and apply machine learning techniques in understanding and categorizing fashion data, thereby gaining hands-on experience with real-world machine learning and data analysis challenges.
 
-## License
-This project is open-sourced under the MIT license. See the LICENSE file for more details.
 
    
 
